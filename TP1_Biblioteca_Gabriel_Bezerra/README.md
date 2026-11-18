@@ -1,7 +1,8 @@
 # TP1 — Biblioteca Universitária
 
+Repositório GitHub: https://github.com/Gabriel-Bezerra1806/TP1-Projeto-de-Bloco
+
 **Aluno:** Gabriel Bezerra de Sousa  
-**Disciplina:** [PREENCHER CÓDIGO DA DISCIPLINA]  
 **Trilha:** Java 21
 
 ## Estrutura
